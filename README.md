@@ -4,15 +4,6 @@
 
 This is a clone of airbnb website. It is a full stack project. It has a frontend and a backend. The frontend is built using React and the backend is built using Node.js and Express. The project is divided into two parts. One is the frontend and the other is the backend.
 
-## Features
-
-- User can create an account.
-- User can login.
-- User can view the list of available apartments.
-- User can view the details of an apartment.
-- User can view the reviews of an apartment.
-- User can view the photos of an apartment.
-
 ## UI/UX Design Planning.
 ### 🎯 Design Goals
 
@@ -56,17 +47,43 @@ A well-designed user interface in a booking platform:
 - Increases conversions by simplifying the booking process and reducing drop-offs
 - Accommodates a wide range of devices, ensuring accessibility for all users
 
+### 📊 Color Styles
+
+#### 🎨 Color Palette
+
+| Color Name | Hex Code |
+|------------|----------|
+| **Primary Color** | #34967C |
+| **Secondary Color** | #FFA800 |
+| **Secondary Color** | #161117 |
+
+### 📝 Typography
+
+#### 🎨 Font Family
+
+- **Primary Font Family:** Quicksand
+
+#### 🎨 Font Sizes
+
+| Size Name | Value |
+|-----------|-------|
+| **Heading 1** | 48px |
+| **Heading 2** | 36px |
+| **Heading 3** | 24px |
+| **Heading 4** | 18px |
+| **Heading 5** | 16px |
+| **Body 1** | 14px |
+| **Body 2** | 12px |
+| **Button** | 14px |
+
+---
+
 ## Tech Stack
 
-- React
-- Django
-- MySQL
+- **Frontend:** React
+- **Backend:** Django
+- **Database:** MySQL
 
-## Installation
+---
 
-1. Clone the project.
-2. Go to the project directory.
-3. Run the command `npm install` to install the dependencies.
-4. Run the command `npm start` to start the server.
-5. Go to `http://localhost:3000` to view the frontend.
-6. Go to `http://localhost:8000` to view the backend.
+
