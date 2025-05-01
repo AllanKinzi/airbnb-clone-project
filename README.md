@@ -78,6 +78,50 @@ A well-designed user interface in a booking platform:
 
 ---
 
+## 👥 Project Roles and Responsibilities.
+
+### 📌 Project Manager
+- Oversees project timelines and resources.
+- Coordinates between teams and ensures milestones are met.
+
+### 💻 Frontend Developers
+- Implement the UI using modern frameworks (React, Vue, Angular).
+- Ensure responsiveness, accessibility, and API integration.
+
+### 🖥️ Backend Developers
+- Build and maintain server-side logic and databases.
+- Design and secure RESTful APIs and handle business logic.
+
+### 🎨 Designers (UI/UX)
+- Create wireframes, mockups, and design systems.
+- Ensure intuitive and user-friendly interfaces.
+
+### ✅ QA/Testers
+- Develop and run test cases to find bugs.
+- Ensure application quality, performance, and usability.
+
+### ⚙️ DevOps Engineers
+- Set up CI/CD pipelines and manage deployments.
+- Ensure system scalability, monitoring, and infrastructure health.
+
+### 🎯 Product Owner
+- Defines product vision and roadmap.
+- Prioritizes features and aligns with stakeholder needs.
+
+### 🧭 Scrum Master
+- Facilitates Agile ceremonies (daily standups, sprint planning).
+- Removes blockers and promotes team productivity.
+
+
+## 🧩 UI Component Patterns
+The following core UI components will be created to support the user interface of the AirBnB Clone project:
+
+- **Navbar**: A responsive top navigation bar that includes logo, search, user menu, and navigation links.
+- **Property Card**: Reusable card component displaying property image, title, price, and brief details.
+- **Footer**: Contains site information, links, and legal disclaimers; designed to be simple and responsive.
+
+These components will follow consistent design patterns to ensure reusability, accessibility, and responsiveness across all views.
+
 ## Tech Stack
 
 - **Frontend:** React
