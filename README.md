@@ -9,24 +9,6 @@ This is a clone of airbnb website. It is a full stack project. It has a frontend
 
 The following goals guide our design decisions to ensure a seamless user experience:
 
-- ✅ **Create intuitive booking flow**: Minimize user friction by guiding them clearly through property selection, detail viewing, and checkout.
-- ✅ **Maintain visual consistency**: Apply consistent branding, color schemes, and component styles across all views.
-- ✅ **Ensure fast loading times**: Optimize assets and interactions to provide a fast, responsive interface.
-- ✅ **Prioritize mobile responsiveness**: Design for mobile-first to ensure accessibility across devices.
-
----
-
-### 🔑 Key Features
-
-| Feature                     | Description                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| Property Search & Filtering| Users can search and filter listings by location, price, type, etc.        |
-| Detailed Property Viewing  | Each listing displays in-depth info including images, amenities, and location.|
-| Secure Checkout Process    | Guided checkout with secure payment and confirmation.                       |
-| User Authentication        | Signup, login, and session management for personalized experiences.         |
-
----
-
 ### 📄 Primary Pages Overview
 
 | Page Name              | Description                                                                                     |
@@ -47,36 +29,17 @@ A well-designed user interface in a booking platform:
 - Increases conversions by simplifying the booking process and reducing drop-offs
 - Accommodates a wide range of devices, ensuring accessibility for all users
 
-### 📊 Color Styles
+### Color Styles:
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
 
-#### 🎨 Color Palette
-
-| Color Name | Hex Code |
-|------------|----------|
-| **Primary Color** | #34967C |
-| **Secondary Color** | #FFA800 |
-| **Secondary Color** | #161117 |
-
-### 📝 Typography
-
-#### 🎨 Font Family
-
-- **Primary Font Family:** Quicksand
-
-#### 🎨 Font Sizes
-
-| Size Name | Value |
-|-----------|-------|
-| **Heading 1** | 48px |
-| **Heading 2** | 36px |
-| **Heading 3** | 24px |
-| **Heading 4** | 18px |
-| **Heading 5** | 16px |
-| **Body 1** | 14px |
-| **Body 2** | 12px |
-| **Button** | 14px |
-
----
+### Typography:
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
 
 ## 👥 Project Roles and Responsibilities.
 
